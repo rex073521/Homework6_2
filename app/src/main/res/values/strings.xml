@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework6_2</string>
+
+    <string name="height">請輸入身高</string>
+    <string name="weight">請輸入體重</string>
+    <string name="bmiResult">您的BMI：</string>
+    <string name="bmiOK">BMI在標準範圍，請保持！</string>
+    <string name="bmiThin">BMI過低，要多吃一點喔！</string>
+    <string name="bmiFat">BMI過高，該運動減肥囉！</string>
+    <string name="btnOK">送出</string>
+    <string name="btnBack">返回</string>
+    <string name="action_settings">Settings</string>
+</resources>
